@@ -1,16 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=a6c1ee&height=200&section=header&text=☄Hello%20World☄&fontAlignY=35&fontSize=60&fontColor=ffffff)
 
-<!--
-**JeonHaeseung/JeonHaeseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jeon Haeseung
+ 
+Welcome to my GitHub! I'm interested in:
 
-Here are some ideas to get you started:
+- Data Structure
+- Android App
+- ✨  Reading  books   ✨  
+ 
+# Teck Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🪐 Tech Stack 🪐</h3>
+
+<br/>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Java-548ddd?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/C-399eaa?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+</p>
+
+
+</br>
+
+
+![snake gif](https://github.com/JeonHaeseung/JeonHaeseung/blob/output/github-contribution-grid-snake.gif)
