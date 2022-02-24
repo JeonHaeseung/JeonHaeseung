@@ -23,4 +23,4 @@ Welcome to my GitHub! I'm interested in:
 </br>
 
 
-![snake gif](https://github.com/JeonHaeseung/JeonHaeseung/blob/output/github-contribution-grid-snake.gif)
+![snake gif_svg](https://github.com/JeonHaeseung/JeonHaeseung/blob/output/github-contribution-grid-snake.svg)
