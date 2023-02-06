@@ -4,9 +4,8 @@
  
 Welcome to my GitHub! I'm interested in:
 
-- Data Structure
-- Android App
-- ✨  Reading  books   ✨  
+- Cloud Computing
+- Backend Development
  
 # Teck Stack
 
@@ -15,8 +14,12 @@ Welcome to my GitHub! I'm interested in:
 <br/>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Java-548ddd?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/C-399eaa?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-java-orange"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-C%2FC%2B%2B-lightgrey"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-python-blue"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-SQL-green"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-flask-blue"/></a>&nbsp 
 </p>
 
 
