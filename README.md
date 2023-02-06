@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm interested in:
  <img src="https://img.shields.io/badge/-SQL-green"/></a>&nbsp 
  <img src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen"/></a>&nbsp 
  <img src="https://img.shields.io/badge/-flask-blue"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-javascript%2FjQuery-red"/></a>&nbsp 
 </p>
 
 
