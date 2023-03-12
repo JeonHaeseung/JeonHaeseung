@@ -28,6 +28,3 @@ Welcome to my GitHub! I'm interested in:
 
 
 </br>
-
-
-![snake gif_svg](https://github.com/JeonHaeseung/JeonHaeseung/blob/output/github-contribution-grid-snake.svg)
