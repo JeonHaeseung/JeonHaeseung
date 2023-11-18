@@ -1,19 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a6c1ee&height=200&section=header&text=☄Hello%20World☄&fontAlignY=35&fontSize=60&fontColor=ffffff)
 
-# Jeon Haeseung
+# 👩‍💻Jeon Haeseung
  
 Welcome to my GitHub! I'm interested in:
 
-- 👩‍💻Backend Development
+- 💻Backend Development
 - ☁️Cloud Computing
 
-# GitHub Stat
+# 🌟GitHub Stat
 
-[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung)](https://github.com/anuraghazra/github-readme-stats)
+[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
-# Teck Stack
-
-<h3 align="center">🪐 Tech Stack 🪐</h3>
+# ⚙️Teck Stack
 
 <br/>
 
