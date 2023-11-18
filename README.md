@@ -4,9 +4,8 @@
  
 Welcome to my GitHub! I'm interested in:
 
-- Cloud Computing
-- Backend Development
-- Web Programming
+- 👩‍💻Backend Development
+- ☁️Cloud Computing
 
 # GitHub Stat
 
