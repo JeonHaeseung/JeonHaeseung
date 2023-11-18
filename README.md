@@ -7,9 +7,13 @@ Welcome to my GitHub! I'm interested in:
 - 💻Backend Development
 - ☁️Cloud Computing
 
-# 🌟GitHub& Baekjoon Stat
+# 🌟GitHub Stat
 
-[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Haeseung's Baekjoon Stat](http://mazassumnida.wtf/api/v2/generate_badge?boj=cathyjeon)](https://solved.ac/cathyjeon/)
+[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+# 💻Baekjoon Stat
+
+[![Haeseung's Baekjoon Stat](http://mazassumnida.wtf/api/v2/generate_badge?boj=cathyjeon)](https://solved.ac/cathyjeon/)
 
 # ⚙️Teck Stack
 
