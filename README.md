@@ -8,9 +8,8 @@ Welcome to my GitHub! I'm interested in:
 - ☁️Cloud Computing
 
 # 🌟GitHub& Baekjoon Stat
-<p>
+
 [![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Haeseung's Baekjoon Stat](http://mazassumnida.wtf/api/v2/generate_badge?boj=cathyjeon)](https://solved.ac/cathyjeon/)
-</p>
 
 # ⚙️Teck Stack
 
