@@ -7,6 +7,10 @@ Welcome to my GitHub! I'm interested in:
 - Cloud Computing
 - Backend Development
 - Web Programming
+
+# GitHub Stat
+
+[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung)](https://github.com/anuraghazra/github-readme-stats)
  
 # Teck Stack
 
