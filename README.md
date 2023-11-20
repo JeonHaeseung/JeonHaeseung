@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm interested in:
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 31%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" /></div>
+<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" /></div>
 </div>
 
 
