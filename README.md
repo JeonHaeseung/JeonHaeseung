@@ -12,8 +12,6 @@ Welcome to my GitHub! I'm interested in:
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" />
 </div>
 
-[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark)
-
 # 💻Baekjoon Stat
 
 [![Haeseung's Baekjoon Stat](http://mazassumnida.wtf/api/v2/generate_badge?boj=cathyjeon)](https://solved.ac/cathyjeon/) 
