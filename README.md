@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm interested in:
 
 # 🌟GitHub Stat
 
-[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=tokyonight)
+[![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark)
 
 # 💻Baekjoon Stat
 
