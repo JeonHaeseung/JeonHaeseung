@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a6c1ee&height=200&section=header&text=☄Hello%20World☄&fontAlignY=35&fontSize=60&fontColor=ffffff)
-
-# 👩‍💻Jeon Haeseung
+# 👩‍💻Jeon Haeseung' GitHub
  
 Welcome to my GitHub! I'm interested in:
 
