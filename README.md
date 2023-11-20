@@ -7,6 +7,11 @@ Welcome to my GitHub! I'm interested in:
 
 # 🌟GitHub Stat
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" />
+</div>
+
 [![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark)
 
 # 💻Baekjoon Stat
