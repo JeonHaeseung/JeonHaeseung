@@ -14,7 +14,14 @@ Welcome to my GitHub! I'm interested in:
 <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" /></div>
 </div>
 
-
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://github.com/JeonHaeseung">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark" alt="Haeseung's GitHub stats" style="height: 200px;" />
+  </a>
+  <a href="https://github.com/JeonHaeseung">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" alt="Top Langs" style="height: 200px;" />
+  </a>
+</div>
 
 # 💻Baekjoon Stat
 
