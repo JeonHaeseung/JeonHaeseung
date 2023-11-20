@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm interested in:
 # 🌟GitHub Stat
 
 <div class='container'>
-<img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JeonHaeseung&show_icons=true&theme=chartreuse-dark" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" /></div>
