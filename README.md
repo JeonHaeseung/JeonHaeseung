@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm interested in:
 # ⚙️Teck Stack
 
 <p>
- <img src="https://github.com/JeonHaeseung/JeonHaeseung/assets/89632139/6b35b5ee-4978-4203-9535-1d89144fe302" alt="Spring Boot" style="height: 30px;" />
+ <img src="https://github.com/JeonHaeseung/JeonHaeseung/assets/89632139/6b35b5ee-4978-4203-9535-1d89144fe302" alt="Spring Boot" style="height: 40px;" />
  <img src="https://img.shields.io/badge/-java-orange"/></a>&nbsp 
  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-lightgrey"/></a>&nbsp 
  <img src="https://img.shields.io/badge/-python-blue"/></a>&nbsp 
