@@ -1,7 +1,7 @@
 # 👩‍💻Jeon Haeseung' GitHub
- 
-Welcome to my GitHub! I'm interested in:
+Welcome to my GitHub!
 
+# ✨Interest
 - 💻Backend Development
 - ☁️Cloud Computing
 - 🤖Artificial Intelligence
