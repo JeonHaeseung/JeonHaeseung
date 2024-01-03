@@ -19,7 +19,8 @@ Welcome to my GitHub!
 <div>
  <img alt="Cloud" src ="https://img.shields.io/badge/☁️Cloud-7A64FF.svg?&style=for-the-badge&logoColor=white"/>
  <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
- <img alt="AWS" src ="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="GCP" src ="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+ <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 <div>
  <img alt="ML/AI" src ="https://img.shields.io/badge/🤖ML/AI-7A64FF.svg?&style=for-the-badge&logoColor=white"/>
