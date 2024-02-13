@@ -39,8 +39,3 @@ Welcome to my GitHub!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonHaeseung&theme=chartreuse-dark" alt="Top Langs" style="height: 200px;" />
   </a>
 </div>
-
-# 💻Baekjoon Stat
-
-[![Haeseung's Baekjoon Stat](http://mazassumnida.wtf/api/v2/generate_badge?boj=cathyjeon)](https://solved.ac/cathyjeon/) 
-
