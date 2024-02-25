@@ -1,8 +1,8 @@
 # Jeon Haeseung's GitHub
-### 👩‍💻 Backend Developer | Cloud Engineer
+## 👩‍💻 Backend Developer | Cloud Engineer
 > Hello world! I am a junior backend developer who like to develope with SpringBoot, AWS and GCP.
 
-### ⚙️Tech Stack
+## ⚙️Tech Stack
 <div>
  <img alt="Backend" src ="https://img.shields.io/badge/💻Backend-7A64FF.svg?&style=for-the-badge&logoColor=white"/>
  <img alt="Spring Boot" src ="https://img.shields.io/badge/spring boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
