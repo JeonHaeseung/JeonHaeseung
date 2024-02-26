@@ -2,6 +2,16 @@
 ## 👩‍💻 Backend Developer | Cloud Engineer
 > Hello world! I am a junior backend developer who like to develope with SpringBoot, AWS and GCP.
 
+## 🚀 Experiences
+- ☁️ AWS Cloud Clubs, Active Member | _Sep. 2023 - Now_
+- ☁️ Samyang Data Systems Inc., Intern | _Mar. 2023 - Jun. 2023_
+- 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Now_
+- 🤖 AI Security Lab ‘AISec’, Intern | _Jan. 2023 - Now_
+- 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
+
+## 🏆 Awards
+- 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
+
 ## ⚙️Tech Stack
 <div>
  <img alt="Backend" src ="https://img.shields.io/badge/💻Backend-7A64FF.svg?&style=for-the-badge&logoColor=white"/>
@@ -10,7 +20,6 @@
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"/>
  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white"/>
- 
 </div>
 <div>
  <img alt="Cloud" src ="https://img.shields.io/badge/☁️Cloud-7A64FF.svg?&style=for-the-badge&logoColor=white"/>
