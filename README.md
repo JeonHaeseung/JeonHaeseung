@@ -26,8 +26,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
-- 💻 **ZOOM Correlation**: Deep Learning Analysis of Website Traffic | _Jan. 2024 - Now_
-- 🔍 **Deep FigerPrinting**: Transformer Analysis of ZOOM Traffic | _Feb. 2023 - Now_
+- 🔍 **Deep FingerPrinting**: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Now_
+- 💻 **ZOOM Correlation**: Transformer Analysis of ZOOM Traffic | _Jan. 2024 - Now_
 
 ## 🏆 Awards
 - 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
