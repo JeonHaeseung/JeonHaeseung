@@ -1,7 +1,4 @@
 # Jeon Haeseung's GitHub
-## 👩‍💻 Backend Developer | Cloud Engineer
-> Hello world! I am a junior backend developer who like to develope with SpringBoot, AWS and GCP.
-
 ## 🚀 Experiences
 - ☁️ AWS Cloud Clubs, OB | _Mar. 2024 - Now_
 - ☁️ AWS Cloud Clubs, Active Member | _Sep. 2023 - Feb. 2024_
