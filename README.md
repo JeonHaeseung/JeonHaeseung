@@ -1,10 +1,15 @@
 # Jeon Haeseung's GitHub
+## 🏫 School
+- 👩‍💻 Ewha Womans University, Master of Science in Computer science and Engineering | _Sep. 2024 - Now_
+- 👩‍💻 Ewha Womans University, Bachelor of Science in Computer science and Engineering | _Mar. 2020 - Aug. 2024_
+
+
 ## 🚀 Experiences
-- ☁️ AWS Cloud Clubs, OB | _Mar. 2024 - Now_
+- ☁️ AWS Cloud Clubs, OB | _Mar. 2024 - Aug. 2024_
 - ☁️ AWS Cloud Clubs, Active Member | _Sep. 2023 - Feb. 2024_
-- ☁️ Samyang Data Systems Inc., Intern | _Mar. 2023 - Jun. 2023_
-- 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Now_
-- 🤖 AI Security Lab ‘AISec’, Intern | _Jan. 2023 - Now_
+- ☁️ Samyang Data Systems Inc. Internship | _Mar. 2023 - Jun. 2023_
+- 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Jun. 2024_
+- 🤖 AI Security Lab, ‘AISec’ Internship | _Jan. 2023 - Now_
 - 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
 
 ## ⚙️ Backend Projects & Stack
@@ -15,7 +20,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-- 🤖 **NESS**: AI Assistant App Service using LLM | _Sep. 2023 - Now_
+- 🤖 **NESS**: AI Assistant App Service using LLM | _Sep. 2023 - Jul. 2024_
 - 👂 **All Ears**: A Voice Visualizing WearOS App for Kids with Hearing Impairments | _Jan. 2024 - Feb. 2024_
 - 🍔 **Ettopia**: Local Restaurant Community Web Service | _Sep. 2022 - Dec. 2024_
 
@@ -23,8 +28,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
-- 🔍 **Deep FingerPrinting**: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Now_
-- 💻 **ZOOM Correlation**: Transformer Analysis of ZOOM Traffic | _Jan. 2024 - Now_
+- 🔍 **Deep FingerPrinting**: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Jul. 2024_
+- ⏫ **Data Augmentation**: Data Augmentation & Contrastive Learning Analysis of Website Traffic | _Jul. 2024 - Now_
+- 💻 **Membership Inference**: Measurement of Overfitting & Memorization of LLM | _Jul. 2024 - Now_
 
 ## 🏆 Awards
 - 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
