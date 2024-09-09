@@ -9,7 +9,7 @@
 - ☁️ AWS Cloud Clubs, OB | _Mar. 2024 - Aug. 2024_
 - ☁️ AWS Cloud Clubs, Active Member | _Sep. 2023 - Feb. 2024_
 - ☁️ Samyang Data Systems Inc. Internship | _Mar. 2023 - Jun. 2023_
-- 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Jun. 2024_
+- 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Jul. 2024_
 - 🤖 AI Security Lab, ‘AISec’ Internship | _Jan. 2023 - Aug. 2024_
 - 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
 
