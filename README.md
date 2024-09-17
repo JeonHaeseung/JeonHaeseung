@@ -34,5 +34,5 @@
 - 🔍 Deep FingerPrinting: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Jul. 2024_
 
 ## 🏆 Awards
-- 📝 Korea Computer Congress 2024 | _Excellence Paper Award_
+- 📝 Korea Computer Congress 2024 | _Excellence Paper Presenation Award_
 - 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
