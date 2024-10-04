@@ -13,6 +13,14 @@
 - 🤖 AI Security Lab, ‘AISec’ Internship | _Jan. 2023 - Aug. 2024_
 - 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
 
+## 🤖 AI Projects & Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
+- ⏫ **Data Augmentation: Data Augmentation & Contrastive Learning Analysis of Website Traffic | _Jul. 2024 - Now_**
+- 💻 **Membership Inference: Measurement of Overfitting & Memorization of LLM | _Jul. 2024 - Now_**
+- 🔍 Deep FingerPrinting: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Jul. 2024_
+
 ## ⚙️ Backend Projects & Stack
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -25,14 +33,7 @@
 - 👂 All Ears: A Voice Visualizing WearOS App for Kids with Hearing Impairments | _Jan. 2024 - Feb. 2024_ | [GitHub Link](https://github.com/TeamAllways-AllEars/All-Ears_Server)
 - 🍔 Ettopia: Local Restaurant Community Web Service | _Sep. 2022 - Dec. 2024_ | [GitHub Link](https://github.com/JeonHaeseung/Ettopia_FE_BE)
 
-## 🤖 AI Projects & Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
-- ⏫ **Data Augmentation: Data Augmentation & Contrastive Learning Analysis of Website Traffic | _Jul. 2024 - Now_**
-- 💻 **Membership Inference: Measurement of Overfitting & Memorization of LLM | _Jul. 2024 - Now_**
-- 🔍 Deep FingerPrinting: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Jul. 2024_
-
 ## 🏆 Awards
-- 📝 Korea Computer Congress 2024 | _Excellence Paper Presenation Award_
+- 📝 Annual Computer Security Applications Conference (ACSAC) 2024 | _Accepted Poster_
+- 📝 Korea Computer Congress (KCC) 2024 | _Excellence Paper Presenation Award_
 - 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
