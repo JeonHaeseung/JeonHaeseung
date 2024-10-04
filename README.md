@@ -19,7 +19,7 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
 - ⏫ **Data Augmentation: Data Augmentation & Contrastive Learning Analysis of Website Traffic | _Jul. 2024 - Now_**
 - 💻 **Membership Inference: Measurement of Overfitting & Memorization of LLM | _Jul. 2024 - Now_**
-- 🔍 Deep FingerPrinting: Deep Learning Analysis of Website Traffic| _Feb. 2023 - Jul. 2024_
+- 🔍 Deep FingerPrinting: Deep Learning Analysis of Website Traffic | _Feb. 2023 - Jul. 2024_
 
 ## ⚙️ Backend Projects & Stack
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
