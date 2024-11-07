@@ -3,7 +3,8 @@
 - **👩‍💻 Ewha Womans University, Master of Science in Computer science and Engineering | _Sep. 2024 - Now_**
   - Advisor: Dr. Se Eun Oh | [Google Scholar Link](https://scholar.google.com/citations?hl=ko&user=g7-iArAAAAAJ)
 - 👩‍💻 Ewha Womans University, Bachelor of Science in Computer science and Engineering | _Mar. 2020 - Aug. 2024_
-  - Dean's List for seven semesters. Graduated Summa Cum Laude.
+  - Honors: Dean's List (7 semesters), Summa Cum Laude.
+  - Scholarships: Full tuition scholarship (4 years), Huawei ICT Scholarship.
 
 ## 🚀 Experiences
 - ☁️ AWS Cloud Clubs, OB | _Mar. 2024 - Aug. 2024_
@@ -12,6 +13,11 @@
 - 👩‍💻 Google Developer Student Clubs Ewha, Core Member | _Aug. 2023 - Jul. 2024_
 - 🤖 AI Security Lab, ‘AISec’ Internship | _Jan. 2023 - Aug. 2024_
 - 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
+
+## 🏆 Awards
+- 📝 Annual Computer Security Applications Conference (Hawaii), Dec 2024 | _Accepted Poster_
+- 📝 Korea Computer Congress 2024 (Jeju), Jun 2024. | _Poster Session, Outstanding Presentation Paper Award_
+- 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
 
 ## 🤖 AI Projects & Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
@@ -32,8 +38,3 @@
 - 🤖 NESS: AI Assistant App Service using LLM | _Sep. 2023 - Jul. 2024_ | [GitHub Link](https://github.com/studio-recoding/NESS_BE)
 - 👂 All Ears: A Voice Visualizing WearOS App for Kids with Hearing Impairments | _Jan. 2024 - Feb. 2024_ | [GitHub Link](https://github.com/TeamAllways-AllEars/All-Ears_Server)
 - 🍔 Ettopia: Local Restaurant Community Web Service | _Sep. 2022 - Dec. 2024_ | [GitHub Link](https://github.com/JeonHaeseung/Ettopia_FE_BE)
-
-## 🏆 Awards
-- 📝 Annual Computer Security Applications Conference (ACSAC) 2024 | _Accepted Poster_
-- 📝 Korea Computer Congress (KCC) 2024 | _Excellence Paper Presenation Award_
-- 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
