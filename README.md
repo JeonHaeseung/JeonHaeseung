@@ -15,7 +15,7 @@
 - 👩‍💻 Google Developer Student Clubs Ewha, Member | _Sep. 2022 - Jul. 2023_
 
 ## 🏆 Awards
-- 📝 Annual Computer Security Applications Conference (Hawaii), Dec 2024 | _Accepted Poster_
+- 📝 Annual Computer Security Applications Conference (Hawaii), Dec 2024 | _Poster Session_
 - 📝 Korea Computer Congress 2024 (Jeju), Jun 2024. | _Poster Session, Outstanding Presentation Paper Award_
 - 👩‍💼 Ewha SW Entrepreneurship Competition | _4th Award_
 
