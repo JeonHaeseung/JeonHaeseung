@@ -21,7 +21,7 @@
 ## AWARDS
 - Ewha Research Assistant Scholarship | _FA 2024_
 - Ewha Outstanding Scientist Scholarship (GPA > 4.0/4.3) | _FA 2024 - SP 2026_
-- Korea Computer Congress — Outstanding Presentation Paper Award | _SP 2024_
+- Korea Computer Congress Outstanding Presentation Paper Award | _SP 2024_
 - Ewha University-Industry Collaboration Scholarship | _SP 2024_
 - Huawei ICT Talent Development Scholarship | _FA 2023_
 - Ewha Excellence Honors Scholarship (top 6%) | _FA 2023_
