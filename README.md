@@ -14,6 +14,10 @@
 ## INDURSTRY EXPERIENCE
 - Samyang Data Systems Inc. Internship | _SW Developer & Cloud Engineer Intern_ | _03/2023 - 06/2023_
 
+## PROJECTS
+- Seoul National University, [Accelerator Programming](https://github.com/APWS25/AccelMoE) | _Winter School (Certified Program)_ | _FA 2024_
+- Ewha Womans University, [Senior Capstone Project](https://github.com/studio-recoding) | _Undergraduate Course (Graduation Project)_ | _FA 2023 - SP 2024_
+
 ## AWARDS
 - Ewha Research Assistant Scholarship | _FA 2024_
 - Ewha Outstanding Scientist Scholarship (GPA > 4.0/4.3) | _FA 2024 - SP 2026_
