@@ -2,9 +2,8 @@
 > [!NOTE]
 > Hi! I am a second-year Master’s student in Computer Science & Engineering at Ewha Womans University in Seoul. I worked as an undergraduate research assistant with Prof. S.E. Oh at Ewha Womans University and as a graduate research assistant with Prof. M.S. Rahman at the University of Texas at El Paso. Currently, I am also working with Prof. N. Kim at Purdue University as a graduate research assistant.
 
-## EDUCATION
-
 <!-- M.S. -->
+<!-- ## EDUCATION
 <div>
   <div><strong>Ewha Womans University, Seoul, South Korea</strong></div>
   <div><i>09/2024 – 08/2026 (Expected)</i></div>
@@ -20,9 +19,10 @@
 </div>
 
 <ul>
-</ul>
+</ul> -->
 
 <!-- B.S. -->
+<!-- 
 <div style="display: flex; justify-content: space-between;">
   <div><strong>Ewha Womans University, Seoul, South Korea</strong></div>
   <div><i>03/2020 – 08/2024</i></div>
@@ -33,7 +33,7 @@
 </div>
 
 <ul>
-</ul>
+</ul> -->
 
  
 ## RESEARCH EXPERIENCE
