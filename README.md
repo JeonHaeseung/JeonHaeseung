@@ -43,20 +43,19 @@
 - AI Security Lab (AISec) | _Lab Head_ | _09/2024 - Present_
 - AI Security Lab (AISec) | _Undergraduate Intern_ | _01/2023 - 08/2024_
 
-## INDURSTRY EXPERIENCE
-- Samyang Data Systems Inc. Internship | _SW Developer & Cloud Engineer Intern_ | _03/2023 - 06/2023_
+## AWARDS & SCHOLARSHIPS
+- Purdue Visiting Research Fellowship | _SP 2026 (Confirmed)_
+- UTEP Visiting Research Fellowship | _SU 2025_
+- EWU Research Assistant Scholarship – half-tuition | _FA 2024_
+- EWU Outstanding Ewha Scientist Admissions Scholarship – half-tuition for 2 years | _FA 2024 – Present_
+- Korea Computer Congress Distinguished Paper Award (top 6%) | _SP 2024_
+- EWU National Program of Excellence in Software Scholarship – KRW ₩1M | _SP 2024_
+- Huawei ICT Talent Development Scholarship – KRW ₩1M | _FA 2023_
+- EWU Excellence Honors Scholarship (top 6%) – quarter-tuition | _FA 2023_
+- EWU Highest Honors Scholarship (top 2%) – half-tuition | _FA 2020, SP 2022, SP 2023_
+- EWU W4 Admissions Scholarship (top entrant) – full-tuition for 4 years | _SP 2020 – SP 2024_
 
-## AWARDS
-- Ewha Research Assistant Scholarship | _FA 2024_
-- Ewha Outstanding Scientist Scholarship (GPA > 4.0/4.3) | _FA 2024 - SP 2026_
-- Korea Computer Congress Outstanding Presentation Paper Award | _SP 2024_
-- Ewha University-Industry Collaboration Scholarship | _SP 2024_
-- Huawei ICT Talent Development Scholarship | _FA 2023_
-- Ewha Excellence Honors Scholarship (top 6%) | _FA 2023_
-- Ewha Highest Honors Scholarship (top 2%) | _FA 2020, SP 2022, SP 2023_
-- Ewha W4 Admissions Scholarship | _SP 2020 - SP 2024_
-
-## COMMUNITY EXPERIENCE
+## COMMUNITY ENGAGEMENT
 - EWU CS Undergraduate Lab Pair, Invited Speaker | _09/2025_
 - UTEP CS Summer Research Symposium, Invited Speaker | _08/2025_
 - EWU CS Undergraduate Open Lab Seminar, Invited Speaker | _03/2025_
