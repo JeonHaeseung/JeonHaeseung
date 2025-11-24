@@ -1,11 +1,43 @@
 # Haeseung Jeon
-> Master’s @ Ewha Womens University
+> [!NOTE]
+> 
 
 ## EDUCATION
-- Ewha Womans University | _MS in Computer Science & Engineering_ | _09/2024 - Present_
-  - Advisor: [Dr. Se Eun Oh](https://sites.google.com/view/ewha-aisec/)
-- Ewha Womans University | _BS in Computer Science & Engineering_ | _03/2020 - 08/2024_
-  - Honors: Dean’s List (7/8 semesters), Summa Cum Laude
+
+<!-- M.S. -->
+<div>
+  <div><strong>Ewha Womans University, Seoul, South Korea</strong></div>
+  <div><i>09/2024 – 08/2026 (Expected)</i></div>
+</div>
+
+<div>
+  <div>
+    <i>M.S. in Computer Science &amp; Engineering
+    (Advisor:
+    <a href="https://sites.google.com/view/ewha-aisec/">Prof. S.E. Oh</a>
+    )</i>
+  </div>
+</div>
+
+<ul>
+  <li>GPA: overall 4.25/4.30, CS-only 4.25/4.30</li>
+</ul>
+
+<!-- B.S. -->
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>Ewha Womans University, Seoul, South Korea</strong></div>
+  <div><i>03/2020 – 08/2024</i></div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <div><i>B.S. in Computer Science &amp; Engineering</i></div>
+</div>
+
+<ul>
+  <li>GPA: overall 4.15/4.30, CS-only: 4.16/4.30</li>
+  <li>Honors: Dean’s List (7 out of 8 semesters), Summa Cum Laude</li>
+</ul>
+
  
 ## RESEARCH EXPERIENCE
 - AI Security Lab (AISec) | _Lab Head_ | _09/2024 - Present_
@@ -13,10 +45,6 @@
 
 ## INDURSTRY EXPERIENCE
 - Samyang Data Systems Inc. Internship | _SW Developer & Cloud Engineer Intern_ | _03/2023 - 06/2023_
-
-## PROJECTS
-- Seoul National University, [Accelerator Programming](https://github.com/APWS25/AccelMoE) | _Winter School (Certified Program)_ | _FA 2024_
-- Ewha Womans University, [Senior Capstone Project](https://github.com/studio-recoding) | _Undergraduate Course (Graduation Project)_ | _FA 2023 - SP 2024_
 
 ## AWARDS
 - Ewha Research Assistant Scholarship | _FA 2024_
