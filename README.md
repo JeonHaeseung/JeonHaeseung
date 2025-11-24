@@ -57,5 +57,11 @@
 - Ewha W4 Admissions Scholarship | _SP 2020 - SP 2024_
 
 ## COMMUNITY EXPERIENCE
-- AWS Cloud Club (ACC) | _Executive Member_ | _09/2023 - 08/2024_
-- Google Developer Student Clubs (GDSC) | _Executive Member_ | _09/2022 - 07/2024_
+- EWU CS Undergraduate Lab Pair, Invited Speaker | _09/2025_
+- UTEP CS Summer Research Symposium, Invited Speaker | _08/2025_
+- EWU CS Undergraduate Open Lab Seminar, Invited Speaker | _03/2025_
+- EWU Undergraduate Peer Tutoring Program, Lecturer | _06/2022, 06/2024_
+- GDSC Devfest π 2024: Responsible AI in action, Invited Speaker | _03/2024_
+- GDSC Devfest Cloud 2023, Organizer | _12/2023_
+- AWS Cloud Club (ACC), Cloud Team Executive | _09/2023 – 08/2024_
+- Google Developer Student Clubs (GDSC), Backend Team Executive | _09/2022 – 07/2024_
