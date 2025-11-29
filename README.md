@@ -1,6 +1,6 @@
 # Hello! Haeseung here. 👋
 > [!NOTE]
-> I am a 2nd-year Graduate Student at Ewha Womans University in Seoul, pursuing a Masters in Computer Science and Engineering. I worked as an undergraduate research assistant with Prof. S.E. Oh at Ewha Womans University and as a graduate research assistant with Prof. M.S. Rahman at the University of Texas at El Paso. Currently, I am also working with Prof. N. Kim at Purdue University as a graduate research assistant.
+> I am a 2nd-year Graduate Student at Ewha Womans University in Seoul, pursuing a Masters in Computer Science and Engineering. I worked as an undergraduate research assistant with Prof. S.E. Oh at Ewha Womans University and as a graduate research assistant with Prof. M.S. Rahman at the University of Texas at El Paso. Currently, I am also working with Prof. N. Kim at Purdue University as a part-time researcher.
 
 <!-- M.S. -->
 <!-- ## EDUCATION
