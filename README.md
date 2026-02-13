@@ -93,18 +93,3 @@
     <i>Undergraduate Research Assistant (Research Advisor: Prof. S.E. Oh)</i>
   </div>
 </div>
-
-
-## SELECTED AWARDS & SCHOLARSHIPS
-- Purdue Visiting Research Fellowship | _SP 2026 (Confirmed)_
-- EWU National Program of Excellence in Software Scholarship – KRW ₩1M | _SP 2024_
-- Huawei ICT Talent Development Scholarship – KRW ₩1M | _FA 2023_
-- EWU Highest Honors Scholarship (top 2%) – half-tuition | _FA 2020, SP 2022, SP 2023_
-- EWU W4 Admissions Scholarship (top entrant) – full-tuition for 4 years | _SP 2020 – SP 2024_
-
-## SELECTED COMMUNITY ENGAGEMENT
-- EWU CS Undergraduate Lab Pair, Invited Speaker | _09/2025_
-- UTEP CS Summer Research Symposium, Invited Speaker | _08/2025_
-- EWU Undergraduate Peer Tutoring Program, Lecturer | _06/2022, 06/2024_
-- AWS Cloud Club (ACC), Cloud Team Executive | _09/2023 – 08/2024_
-- Google Developer Student Clubs (GDSC), Backend Team Executive | _09/2022 – 07/2024_
