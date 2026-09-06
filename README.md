@@ -4,7 +4,8 @@
  
 ## RESEARCH EXPERIENCE
 <div>
-  <div><strong>❖ Ewha Womans University | AI Security Lab (Advisor: Prof. S.E. Oh) | Seoul, South Korea</strong></div>
+  <div><strong>❖ Ewha Womans University | AI Security Lab | Seoul, South Korea</strong></div>
+  <div><strong> • Advisor: Prof. S.E. Oh</strong></div>
   <div><i> • Graduate Research Assistant, 09/2024 — 08/2026</i></div>
   <div><i> • Undergraduate Research Assistant, 01/2023 — 08/2024</i></div>
 </div>
@@ -12,7 +13,8 @@
 <br>
 
 <div>
-  <div><strong>❖ Purdue University | Sensor, Electro-Acoustics Technology Lab (Research Advisor: Prof. N. Kim) | Indiana, United States</strong></div>
+  <div><strong>❖ Purdue University | Sensor, Electro-Acoustics Technology Lab | Indiana, United States</strong></div>
+  <div><strong> • Research Advisor: Prof. N. Kim</strong></div>
   <div><i> • Visiting Researcher, 01/2026 — 05/2026</i></div>
   <div><i> • Part-Time Researcher, 05/2025 — 12/2025</i></div>
 </div>
@@ -20,6 +22,7 @@
 <br>
 
 <div>
-  <div><strong>❖ UTEP | Intelligent & Quantum Secure Advanced Cyber Defense Lab (Research Advisor: Prof. M.S. Rahman) | Texas, United States</strong></div>
+  <div><strong>❖ UTEP | Intelligent & Quantum Secure Advanced Cyber Defense Lab | Texas, United States</strong></div>
+  <div><strong> • Research Advisor: Prof. M.S. Rahman</strong></div>
   <div><i> • Visiting Researcher, 06/2025 — 08/2025</i></div>
 </div>
