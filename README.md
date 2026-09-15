@@ -1,6 +1,6 @@
 # Hello! Catherine here. 👋
 > [!NOTE]
-> I am an upcoming Computer Science PhD in University of Chicago, starting in Fall 2026. Before my PhD, I pursued a Bachelor’s and Master's in Computer Science and Engineering at Ewha Womans University in Seoul, South Korea. I also worked with Prof. M.S. Rahman at the University of Texas at El Paso and with Prof. N. Kim at Purdue University as a visiting scholar during my Master’s.
+> I am a 1st-year PhD student in Computer Science working in the SAND (Security, Algorithms, Networking and Data) lab. Before joining the University of Chicago, I received my B.S. and M.S. in Computer Science and Engineering at Ewha Womans University under the supervision of Prof. S.E. Oh, with a research focus on the intersection of AI and Cybersecurity. Previously, I also worked as a Visiting Scholar with Prof. N. Kim at Purdue University and Prof. M.S. Rahman at the University of Texas at El Paso.
 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kMrf_jAAAAAJ)
