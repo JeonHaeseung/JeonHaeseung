@@ -1,4 +1,4 @@
-# Hello! Catherine here. 👋
+# Hello! Catherine Jeon here. 👋
 > [!NOTE]
 >I am a 1st-year PhD student in Computer Science working in the SAND (Security, Algorithms, Networking and Data) Lab, co-advised by Prof. Ben Zhao and Prof. Heather Zheng.Before joining the University of Chicago, I earned my B.S. and M.S. in Computer Science and Engineering at Ewha Womans University under the supervision of Prof. S.E. Oh, focusing on the intersection of AI and Cybersecurity. My research experience spans Adversarial AI (e.g., anonymous network analysis), AI for security (e.g., malware detection), and AI for Healthcare (e.g., ear health monitoring, electroacoustics). My work has been published in several leading conferences and journals, including ACM CCS, PAKDD, ACM WWW, ACM ASIA CCS, IEEE Sensors, and JASA.
 
