@@ -1,6 +1,6 @@
 # Hello! Catherine here. 👋
 > [!NOTE]
-> I am a 1st-year PhD student in Computer Science working in the SAND (Security, Algorithms, Networking and Data) lab. Before joining the University of Chicago, I received my B.S. and M.S. in Computer Science and Engineering at Ewha Womans University under the supervision of Prof. S.E. Oh, with a research focus on the intersection of AI and Cybersecurity. Previously, I also worked as a Visiting Scholar with Prof. N. Kim at Purdue University and Prof. M.S. Rahman at the University of Texas at El Paso.
+>I am a 1st-year PhD student in Computer Science working in the SAND (Security, Algorithms, Networking and Data) Lab, co-advised by Prof. Ben Zhao and Prof. Heather Zheng.Before joining the University of Chicago, I earned my B.S. and M.S. in Computer Science and Engineering at Ewha Womans University under the supervision of Prof. S.E. Oh, focusing on the intersection of AI and Cybersecurity. My research experience spans Adversarial AI (e.g., anonymous network analysis), AI for security (e.g., malware detection), and AI for Healthcare (e.g., ear health monitoring, electroacoustics). My work has been published in several leading conferences and journals, including ACM CCS, PAKDD, ACM WWW, ACM ASIA CCS, IEEE Sensors, and JASA.
 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kMrf_jAAAAAJ)
@@ -11,8 +11,16 @@
  
 ## RESEARCH EXPERIENCE
 <div>
+  <div><strong>❖ University of Chicago | Security, Algorithms, Networking and Data Lab | Chicago, United States</strong></div>
+  <div><strong> • Advisor: Prof. Se Sun Oh</strong></div>
+  <div><i> • Graduate Research Assistant, 09/2026 — Present</i></div>
+</div>
+
+<br>
+
+<div>
   <div><strong>❖ Ewha Womans University | AI Security Lab | Seoul, South Korea</strong></div>
-  <div><strong> • Advisor: Prof. S.E. Oh</strong></div>
+  <div><strong> • Advisor: Prof. Se Sun Oh</strong></div>
   <div><i> • Graduate Research Assistant, 09/2024 — 08/2026</i></div>
   <div><i> • Undergraduate Research Assistant, 01/2023 — 08/2024</i></div>
 </div>
@@ -21,7 +29,7 @@
 
 <div>
   <div><strong>❖ Purdue University | Sensor, Electro-Acoustics Technology Lab | Indiana, United States</strong></div>
-  <div><strong> • Research Advisor: Prof. N. Kim</strong></div>
+  <div><strong> • Research Advisor: Prof. Noori Kim</strong></div>
   <div><i> • Visiting Researcher, 01/2026 — 05/2026</i></div>
   <div><i> • Part-Time Researcher, 05/2025 — 12/2025</i></div>
 </div>
