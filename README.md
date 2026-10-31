@@ -12,7 +12,7 @@
 ## RESEARCH EXPERIENCE
 <div>
   <div><strong>❖ University of Chicago | Security, Algorithms, Networking and Data Lab | Chicago, United States</strong></div>
-  <div><strong> • Advisor: Prof. Se Sun Oh</strong></div>
+  <div><strong> • Advisor: Prof. Ben Zhao and Prof. Heather Zheng</strong></div>
   <div><i> • Graduate Research Assistant, 09/2026 — Present</i></div>
 </div>
 
